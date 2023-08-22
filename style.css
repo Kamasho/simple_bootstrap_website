@@ -94,6 +94,12 @@ body {
   .carousel-caption p {
     width: 100%;
   }
+  .card {
+    margin-bottom: 30px;
+  }
+  .img-area img{
+    width: 100%;
+  }
 }
 @media (max-width: 767px) {
   .navbar-nav {
@@ -112,5 +118,11 @@ body {
     width: 100%;
     font-size: 12px;
     line-height: 1.6px;
+  }
+  .about-text{
+    padding-top: 50px;
+  }
+  .card {
+    margin-bottom: 30px;
   }
 }
