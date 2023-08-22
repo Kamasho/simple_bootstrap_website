@@ -70,6 +70,10 @@ body {
   width: 100vh;
 }
 
+.services .card-body i{
+    font-size: 50px;
+}
+
 /* === responsive css === */
 @media (min-width: 768px) and (max-width: 991px) {
   .carousel-caption {
